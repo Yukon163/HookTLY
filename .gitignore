@@ -1,0 +1,46 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio / IDEA
+.idea/
+*.iws
+*.out
+/captures/
+
+# Gradle
+.gradle/
+build/
+.gradle-user/
+
+# Kotlin
+.kotlin/
+*.kotlin_module
+
+# Gradle Signing
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Built binaries
+*.apk
+*.aar
+*.jar

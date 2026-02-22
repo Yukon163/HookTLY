@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.HookTLY" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF82B1FF</item>
+        <item name="colorPrimaryVariant">#FF00468A</item>
+        <item name="colorOnPrimary">#FF0D0D14</item>
+        <item name="colorSecondary">#FF80CBC4</item>
+        <item name="colorSecondaryVariant">#FF005048</item>
+        <item name="colorOnSecondary">#FF0D0D14</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">#FF0D0D14</item>
+    </style>
+</resources>
